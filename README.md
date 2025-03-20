@@ -21,15 +21,15 @@ A physical parts of computer,includeing CPU which executes instruction.
 memory - RAM, ROM - which stores data
 computer devices like keybord, mouse, disk etc - which helps for interaction within the system. 
 
-**Kernel  **
+**Kernel**
 
-also called as heart of linux, it manages hardware and system resources. 
+Also called as heart of linux, it manages hardware and system resources. 
 kernel handles the execution of programs, manages and allocates the memory, 
 communicates with hardware, permits access to files and organizes files.
 
 **Shell**
 
-it acts like a bridge between the kernel and the user. it takes command from users and convert it to comuter language and tranfer it to kernel. 
+It acts like a bridge between the kernel and the user. it takes command from users and convert it to comuter language and tranfer it to kernel. 
 
 **System librabries**
 
