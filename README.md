@@ -3,10 +3,14 @@ A collection of my notes.
 
 A open source, unix like operating system kernel. 
 
-Stucture of linux - 
+Stucture of linux 
+
 Divided into 5 main layers
+
 User
+
 system libraries
+
 shell
 kernel
 hardware 
