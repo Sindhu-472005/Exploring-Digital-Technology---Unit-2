@@ -50,4 +50,4 @@ There are multiple linux distributions, currently we are using Ubuntu, which is 
 * Known for its multi tasking ability
 * It supports multiple users work simultaneously
 * Since its a open source anyone can alter or modify it and districute.
-* It runs in a wide range. 
+* It runs in a wide range.
