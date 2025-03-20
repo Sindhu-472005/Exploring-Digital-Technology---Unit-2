@@ -21,26 +21,26 @@ A physical parts of computer,includeing CPU which executes instruction.
 memory - RAM, ROM - which stores data
 computer devices like keybord, mouse, disk etc - which helps for interaction within the system. 
 
-Kernel  
+**Kernel  **
 
 also called as heart of linux, it manages hardware and system resources. 
 kernel handles the execution of programs, manages and allocates the memory, 
 communicates with hardware, permits access to files and organizes files.
 
-Shell
+**Shell**
 
 it acts like a bridge between the kernel and the user. it takes command from users and convert it to comuter language and tranfer it to kernel. 
 
-System librabries
+**System librabries**
 
 These provide functions which helps applications to interact with the kernel directly without accessing it. 
 
 
 
-Linux distributions
+**Linux distributions**
 There are multiple linux distributions, currently I am using Ubuntu which is user friendly, great for beginners.
 
-Features of linux
+**Features of linux**
 
 Known for its multi tasking ability, it supports multiple users work simultaneously
 since its a open source anyone can alter or modify it and districute.
