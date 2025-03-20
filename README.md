@@ -5,23 +5,23 @@ A open source, unix like operating system kernel.
 
 Stucture of linux - Divided into 5 main layers
 
-User
+1. User
 
-system libraries
+2. system libraries
 
-shell
+3. shell
 
-kernel
+4. kernel
 
-hardware 
+5. hardware 
 
-Hardware
+**Hardware**
 
 A physical parts of computer,includeing CPU which executes instruction.
 memory - RAM, ROM - which stores data
 computer devices like keybord, mouse, disk etc - which helps for interaction within the system. 
 
-kernel  
+Kernel  
 
 also called as heart of linux, it manages hardware and system resources. 
 kernel handles the execution of programs, manages and allocates the memory, 
@@ -31,17 +31,17 @@ Shell
 
 it acts like a bridge between the kernel and the user. it takes command from users and convert it to comuter language and tranfer it to kernel. 
 
-system librabries
+System librabries
 
-these provide functions which helps applications to interact with the kernel directly without accessing it. 
+These provide functions which helps applications to interact with the kernel directly without accessing it. 
 
 
 
-linux distributions
-there are multiple linux distributions, currently I am using Ubuntu which is user friendly, great for beginners.
+Linux distributions
+There are multiple linux distributions, currently I am using Ubuntu which is user friendly, great for beginners.
 
-features of linux
+Features of linux
 
-known for its multi tasking ability, it supports multiple users work simultaneously
+Known for its multi tasking ability, it supports multiple users work simultaneously
 since its a open source anyone can alter or modify it and districute.
 it runs in a wide range. 
