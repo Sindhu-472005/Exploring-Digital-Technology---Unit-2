@@ -18,30 +18,36 @@ Stucture of linux - Divided into 5 main layers
 **Hardware**
 
 * A physical parts of computer,includeing CPU which executes instruction.
-memory - RAM, ROM - which stores data
-computer devices like keybord, mouse, disk etc - which helps for interaction within the system. 
+* Memory - RAM, ROM - which stores data
+* Computer devices like keybord, mouse, disk etc - which helps for interaction within the system. 
 
 **Kernel**
 
-Also called as heart of linux, it manages hardware and system resources. 
-kernel handles the execution of programs, manages and allocates the memory, 
-communicates with hardware, permits access to files and organizes files.
+* Also called as heart of linux
+* It manages hardware and system resources. 
+* Handles the execution of programs
+* Manages and allocates the memory
+* Communicates with hardware
+* Provide access to files and organizes files.
 
 **Shell**
 
-It acts like a bridge between the kernel and the user. it takes command from users and convert it to comuter language and tranfer it to kernel. 
+* It acts like a bridge between the kernel and the user.
+* It takes command from users and convert it to comuter language and tranfer it to kernel, because kernel can only understand computer language
+   
 
 **System librabries**
 
-These provide functions which helps applications to interact with the kernel directly without accessing it. 
+* These provide functions which helps applications to interact with the kernel directly without accessing it. 
 
 
 
 **Linux distributions**
-There are multiple linux distributions, currently I am using Ubuntu which is user friendly, great for beginners.
+There are multiple linux distributions, currently we are using Ubuntu, which is user friendly, great for beginners.
 
 **Features of linux**
 
-Known for its multi tasking ability, it supports multiple users work simultaneously
-since its a open source anyone can alter or modify it and districute.
-it runs in a wide range. 
+* Known for its multi tasking ability
+* It supports multiple users work simultaneously
+* Since its a open source anyone can alter or modify it and districute.
+* It runs in a wide range. 
