@@ -17,7 +17,7 @@ Stucture of linux - Divided into 5 main layers
 
 **Hardware**
 
-A physical parts of computer,includeing CPU which executes instruction.
+* A physical parts of computer,includeing CPU which executes instruction.
 memory - RAM, ROM - which stores data
 computer devices like keybord, mouse, disk etc - which helps for interaction within the system. 
 
